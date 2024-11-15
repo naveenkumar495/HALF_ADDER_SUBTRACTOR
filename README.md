@@ -1,4 +1,6 @@
 EXP 03:HALF_ADDER_SUBTRACTOR
+
+  
 NAME:NAVEENKUMAR
 
 REF NO:24900580
@@ -80,7 +82,17 @@ not g2(w1,a);
 and g3(borr,w1,b);
 
 endmodule 
+**HALF ADDER**
 
+module exphs(Ssum,cout,a,b);
+
+input a,b;
+
+output sum,cout;
+
+xor g1(sum,a,b);
+
+and g3(conta,b);
 Developed by: RegisterNumber:249200580
 
 **RTL Schematic:**
