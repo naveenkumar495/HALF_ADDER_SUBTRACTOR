@@ -1,9 +1,9 @@
-EXP 03:HALF_ADDER_SUBTRACTOR
+# NAME : NAVEENKUMAR M
 
-  
-NAME:NAVEENKUMAR
+# REF NO : 24900580
 
-REF NO:24900580
+
+# EXP 03:HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
